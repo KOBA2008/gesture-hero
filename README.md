@@ -204,3 +204,14 @@ Export en **Arduino library (.zip)** via le compilateur EON. Intégration dans l
 - **Événement** : Arduino Days 2026 — Cotonou
 - **Défi** : Gesture Hero — Rise of the Motion Masters
 - **Dates** : 28-29 Mars 2026
+
+---
+
+## Team — Innovators Hub
+
+- Gilchrist V.
+- Sabalimatou K.
+- David K.
+- Exaucé A.
+- Mondoukpè A.
+- Adebayo E.
