@@ -6,6 +6,19 @@ Projet réalisé lors du **Hackathon Arduino Days 2026 - Cotonou**.
 
 ---
 
+## Documentation interactive
+
+> Une documentation web complète du projet est disponible ici :
+> ### [gesture-hero-original.vercel.app](https://gesture-hero-original.vercel.app/)
+
+Elle couvre :
+- L'architecture technique complète (Arduino → Python → jeu)
+- Les étapes d'implémentation pas à pas
+- Les performances du modèle (90.3% accuracy, matrice de confusion)
+- Les défis rencontrés et solutions appliquées
+
+---
+
 ## Le jeu : Beach Buggy Racing
 
 <p align="center">
